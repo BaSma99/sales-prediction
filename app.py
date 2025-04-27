@@ -40,7 +40,7 @@ if file is not None:
     st.pyplot(fig)
 
 
-st.write(data.describe())
+#st.write(data.describe())
 
 st.sidebar.write('Please, Enter Your Data for PRediction.')
 
