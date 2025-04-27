@@ -65,4 +65,4 @@ if st.sidebar.button('Predict Sales'):
     st.sidebar.write('Sales Prediction:', predcition)
 
 
-txt = st.text_area('Enter a text')
+#txt = st.text_area('Enter a text')
